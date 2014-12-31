@@ -1,0 +1,110 @@
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\bin\Debug\TP1.exe
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\bin\Debug\TP1.pdb
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.exe
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.pdb
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+c:\users\nino\documents\visual studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\nino\Desktop\Client Serveur\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\nino\Desktop\Client Serveur\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.exe
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\bin\Debug\TP1.exe
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\bin\Debug\TP1.pdb
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nino\Desktop\Client Serveur\TP2\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.exe
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\bin\Debug\TP1.exe
+C:\Users\nino\Desktop\Client Serveur\TP3\TP1\bin\Debug\TP1.pdb
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.exe
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.pdb
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\bin\Debug\TP1.exe
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\bin\Debug\TP1.pdb
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Bureau\Client Serveur\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.exe
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\bin\Debug\TP1.exe
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\bin\Debug\TP1.pdb
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\nino\Desktop\usb\usb\Client ServeurV2\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\bin\Debug\TP1.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\bin\Debug\TP1.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\Benhaj Naoufal -Mehdi Nabil - Mode Connecter\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\bin\Debug\TP1.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\bin\Debug\TP1.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.exe
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\bin\Debug\TP1.exe
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\bin\Debug\TP1.pdb
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.MenuApplication.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache
+C:\Users\ESSARRAJ\Documents\app-client-serveur-labs\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.exe
+C:\Users\ESSARRAJ\Documents\app-client-serveur-labs\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.pdb
