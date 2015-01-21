@@ -37,7 +37,7 @@
             // 
             // bntEnregistrer
             // 
-            this.bntEnregistrer.Location = new System.Drawing.Point(104, 74);
+            this.bntEnregistrer.Location = new System.Drawing.Point(127, 96);
             this.bntEnregistrer.Name = "bntEnregistrer";
             this.bntEnregistrer.Size = new System.Drawing.Size(75, 23);
             this.bntEnregistrer.TabIndex = 7;
@@ -48,7 +48,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 50);
+            this.label2.Location = new System.Drawing.Point(53, 72);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 6;
@@ -57,7 +57,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 24);
+            this.label1.Location = new System.Drawing.Point(53, 46);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(22, 13);
             this.label1.TabIndex = 5;
@@ -65,7 +65,7 @@
             // 
             // txtNom
             // 
-            this.txtNom.Location = new System.Drawing.Point(104, 47);
+            this.txtNom.Location = new System.Drawing.Point(127, 69);
             this.txtNom.Name = "txtNom";
             this.txtNom.Size = new System.Drawing.Size(100, 20);
             this.txtNom.TabIndex = 3;
@@ -73,7 +73,7 @@
             // lblId
             // 
             this.lblId.AutoSize = true;
-            this.lblId.Location = new System.Drawing.Point(101, 24);
+            this.lblId.Location = new System.Drawing.Point(124, 46);
             this.lblId.Name = "lblId";
             this.lblId.Size = new System.Drawing.Size(35, 13);
             this.lblId.TabIndex = 8;
@@ -83,7 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 107);
+            this.ClientSize = new System.Drawing.Size(295, 157);
             this.Controls.Add(this.lblId);
             this.Controls.Add(this.bntEnregistrer);
             this.Controls.Add(this.label2);
@@ -91,6 +91,7 @@
             this.Controls.Add(this.txtNom);
             this.Name = "FormUpdateGroupe";
             this.Text = "FormUpdateGroupe";
+            this.Load += new System.EventHandler(this.FormUpdateGroupe_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

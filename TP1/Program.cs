@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using TP1;
 
-namespace TP1
+namespace AppStagiaires
 {
     static class Program
     {

@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using PackageStagiaires;
 
 namespace TP1.PackageStagiaires
 {
@@ -57,6 +58,16 @@ namespace TP1.PackageStagiaires
                     MessageBox.Show("Supression annuler");
             
 
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormGestionStagiaires_Load(object sender, EventArgs e)
+        {
 
         }
     }

@@ -37,14 +37,14 @@
             // 
             // txtId
             // 
-            this.txtId.Location = new System.Drawing.Point(104, 13);
+            this.txtId.Location = new System.Drawing.Point(119, 39);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(100, 20);
             this.txtId.TabIndex = 0;
             // 
             // txtNom
             // 
-            this.txtNom.Location = new System.Drawing.Point(104, 39);
+            this.txtNom.Location = new System.Drawing.Point(119, 65);
             this.txtNom.Name = "txtNom";
             this.txtNom.Size = new System.Drawing.Size(100, 20);
             this.txtNom.TabIndex = 0;
@@ -52,7 +52,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 16);
+            this.label1.Location = new System.Drawing.Point(45, 42);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(22, 13);
             this.label1.TabIndex = 1;
@@ -61,7 +61,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 42);
+            this.label2.Location = new System.Drawing.Point(45, 68);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 1;
@@ -69,7 +69,7 @@
             // 
             // bntEnregistrer
             // 
-            this.bntEnregistrer.Location = new System.Drawing.Point(104, 66);
+            this.bntEnregistrer.Location = new System.Drawing.Point(134, 91);
             this.bntEnregistrer.Name = "bntEnregistrer";
             this.bntEnregistrer.Size = new System.Drawing.Size(75, 23);
             this.bntEnregistrer.TabIndex = 2;
@@ -81,7 +81,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 93);
+            this.ClientSize = new System.Drawing.Size(289, 146);
             this.Controls.Add(this.bntEnregistrer);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using TP1.PackageGroupes;
+using PackageGroupes;
 namespace TP1.PackageStagiaires
 {
     class Stagiaire
@@ -28,7 +29,7 @@ namespace TP1.PackageStagiaires
             get { return prenom; }
             set { prenom = value; }
         }
-        internal Groupe Groupe
+        public Groupe Groupe
         {
             get { return groupe; }
             set { groupe = value; }

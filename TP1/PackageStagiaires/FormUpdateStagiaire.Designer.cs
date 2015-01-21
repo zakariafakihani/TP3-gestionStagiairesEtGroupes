@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btnEnregistrer = new System.Windows.Forms.Button();
             this.txtPrenom = new System.Windows.Forms.TextBox();
             this.txtNom = new System.Windows.Forms.TextBox();
@@ -37,11 +38,13 @@
             this.lblId = new System.Windows.Forms.Label();
             this.cmbGroupes = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.groupeBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.groupeBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // btnEnregistrer
             // 
-            this.btnEnregistrer.Location = new System.Drawing.Point(96, 139);
+            this.btnEnregistrer.Location = new System.Drawing.Point(114, 141);
             this.btnEnregistrer.Name = "btnEnregistrer";
             this.btnEnregistrer.Size = new System.Drawing.Size(75, 23);
             this.btnEnregistrer.TabIndex = 4;
@@ -101,11 +104,14 @@
             // 
             // cmbGroupes
             // 
+            this.cmbGroupes.DataSource = this.groupeBindingSource;
+            this.cmbGroupes.DisplayMember = "Nom";
             this.cmbGroupes.FormattingEnabled = true;
             this.cmbGroupes.Location = new System.Drawing.Point(96, 112);
             this.cmbGroupes.Name = "cmbGroupes";
             this.cmbGroupes.Size = new System.Drawing.Size(137, 21);
             this.cmbGroupes.TabIndex = 8;
+            this.cmbGroupes.ValueMember = "Id";
             // 
             // label4
             // 
@@ -116,11 +122,15 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Groupes :";
             // 
+            // groupeBindingSource
+            // 
+           // this.groupeBindingSource.DataSource = typeof(TP1.PackageGroupes.Groupe);
+            // 
             // FormUpdateStagiaire
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 176);
+            this.ClientSize = new System.Drawing.Size(282, 196);
             this.Controls.Add(this.cmbGroupes);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lblId);
@@ -132,6 +142,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FormUpdateStagiaire";
             this.Text = "FormUpdateStagiaire";
+            ((System.ComponentModel.ISupportInitialize)(this.groupeBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -148,5 +159,6 @@
         private System.Windows.Forms.Label lblId;
         private System.Windows.Forms.ComboBox cmbGroupes;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.BindingSource groupeBindingSource;
     }
 }

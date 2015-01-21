@@ -108,3 +108,5 @@ C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP
 C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP3\TP3\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache
 C:\Users\ESSARRAJ\Documents\app-client-serveur-labs\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.exe
 C:\Users\ESSARRAJ\Documents\app-client-serveur-labs\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\ZIKO\Documents\GitHub\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.exe
+C:\Users\ZIKO\Documents\GitHub\TP3-gestionStagiairesEtGroupes\TP1\obj\x86\Debug\TP1.pdb

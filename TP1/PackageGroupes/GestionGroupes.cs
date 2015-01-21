@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using PackageGroupes;
 
 namespace TP1.PackageGroupes
 {
@@ -33,10 +34,10 @@ namespace TP1.PackageGroupes
 
         public void Modifier(Groupe g)
         {
-            foreach (Groupe gM in listeGroupes)
-            {
-                if (gM.Id == g.Id)
-                    gM.Nom = g.Nom;
+            foreach (Groupe Group in listeGroupes) {
+
+                if (Group.Id == g.Id)
+                    Group.Nom = g.Nom;
             }
         }
 

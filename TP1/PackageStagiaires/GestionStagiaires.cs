@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using TP1.PackageGroupes;
+using PackageGroupes;
 namespace TP1.PackageStagiaires
 {
     class GestionStagiaires
@@ -16,11 +17,11 @@ namespace TP1.PackageStagiaires
 
         public GestionStagiaires(bool Remplissage)
         {
-            for (int i = 1; i <= 3; i++)
+            for (int i = 1; i <= 2; i++)
                 GestionGroupes.ListeGroupes.Add(new Groupe(i,"TDI" + i));
 
-            for (int i = 1; i <= 3; i++)
-                listeStagiaires.Add(new Stagiaire(i, "Nom Etudiant " + i, "Prenom Etudiant " + i,GestionGroupes.ListeGroupes[i-1]));
+            for (int i = 1; i <= 1; i++)
+                listeStagiaires.Add(new Stagiaire(i, "FAKIHNAI " , "ZAKARIA" ,GestionGroupes.ListeGroupes[i-1]));
         }
 
         public void Ajouter(Stagiaire s)
@@ -35,13 +36,12 @@ namespace TP1.PackageStagiaires
 
         public void Modifier(Stagiaire s)
         {
-            foreach (Stagiaire sM in listeStagiaires)
+            foreach (Stagiaire stag in listeStagiaires)
             {
-                if (sM.Id == s.Id)
-                {
-                    sM.Nom = s.Nom;
-                    sM.Prenom = s.Prenom;
-                    sM.Groupe = s.Groupe;
+                if (stag.Id == s.Id){
+                    stag.Nom = s.Nom;
+                    stag.Prenom = s.Prenom;
+                    stag.Groupe = s.Groupe;
                 }
             }
         }

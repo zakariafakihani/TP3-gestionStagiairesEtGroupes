@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using TP1.PackageGroupes;
-namespace TP1.PackageStagiaires
+using PackageGroupes;
+using TP1.PackageStagiaires;
+namespace PackageStagiaires
 {
     public partial class FormStagiaire : Form
     {
@@ -24,6 +26,12 @@ namespace TP1.PackageStagiaires
             Groupe g = (Groupe)cmbGroupes.SelectedItem;
             Stagiaire s = new Stagiaire(id, txtNom.Text, txtPrenom.Text,g);
             new GestionStagiaires().Ajouter(s);
+            this.Hide();
+        }
+
+        private void FormStagiaire_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

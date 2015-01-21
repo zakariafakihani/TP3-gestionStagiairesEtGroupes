@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using PackageGroupes;
 
 namespace TP1.PackageGroupes
 {
@@ -27,6 +28,12 @@ namespace TP1.PackageGroupes
         {
             Groupe g = new Groupe(int.Parse(lblId.Text), txtNom.Text);
             new GestionGroupes().Modifier(g);
+            this.Hide();
+        }
+
+        private void FormUpdateGroupe_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
